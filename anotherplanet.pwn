@@ -16,7 +16,7 @@
 //#define OBJ_GROUND 11693
 
 #define ROCK 18225
-#define ROCK_COUNT 1000
+#define ROCK_COUNT 400
 main()
 {
 print("new planet loaded...");
