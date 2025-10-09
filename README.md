@@ -1,2 +1,2 @@
-# my_games
-i don't know what will happened here
+# my little SA:MP scripts
+The things that interesting for me in SA:MP.
