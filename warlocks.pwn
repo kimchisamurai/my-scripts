@@ -4,7 +4,7 @@
 #include <streamer>
 // timer before round start
 // shop before buy spells
-
+// smoke spell | всё застилается дымкой или всё или только Главный Герой
 
 #define MAX_MANA 400
 #define MANA_REGEN_AMOUNT 20
