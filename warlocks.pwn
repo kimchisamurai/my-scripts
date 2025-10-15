@@ -5,6 +5,10 @@
 // timer before round start
 // shop before buy spells
 // smoke spell | всё застилается дымкой или всё или только Главный Герой
+// заклинание ярость, rage создает взрыв вокруг Вас.
+// лед, молния, ядовые магические заклятия
+// невидимость заклятие
+// паралич для всех toogleplayer заклятие можно сделать
 
 #define MAX_MANA 400
 #define MANA_REGEN_AMOUNT 20
